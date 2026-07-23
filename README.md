@@ -4,7 +4,7 @@ Personal portfolio website showcasing my journey in Data Science, Analytics, and
 
 ## Website
 
-https://calistasugianto.github.io
+https://calsugianto.github.io
 
 ## Technologies
 
