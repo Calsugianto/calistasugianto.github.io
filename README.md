@@ -15,8 +15,9 @@ https://calsugianto.github.io
 ## Sections
 
 - About Me
-- Projects
+- Work Journey
 - Research
+- Education
 - Skills
 - Contact
 
